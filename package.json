@@ -1,0 +1,24 @@
+{
+  "name": "burger-api",
+  "version": "1.0.0",
+  "description": "Here it will give details about all burgers that are avsilsble.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LifeHacks01/Burger-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LifeHacks01/Burger-api/issues"
+  },
+  "homepage": "https://github.com/LifeHacks01/Burger-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
